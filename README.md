@@ -9,7 +9,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/jordanheve/Article-preview-component)
-- Live Site URL: [Live site URL here](https://jordanheve.github.io/jordanheve/Article-preview-component)
+- Live Site URL: [Live site URL here](https://jordanheve.github.io/Article-preview-component/)
 
 ### Built with
 
